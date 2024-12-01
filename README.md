@@ -18,7 +18,7 @@ Using case studies, the research highlights how stakeholder decision interconnec
 ---
 
 ## Highlights
-- **Conference Award**: This research was presented at the **ICAEB2025 - 9th International Conference on Applied Economics and Business** ([ICAEB Official Website](https://www.icaeb.org/)) and won the **Best Presentation Award**.
+- **Conference Award**: This research was presented at the **ICAEB2025 - 8th International Conference on Applied Economics and Business** ([ICAEB Official Website](https://www.icaeb.org/)) and won the **Best Presentation Award**.
 - **Publication Details**: 
   - The complete proceeding paper is under publication with **Springer**. More details will be shared upon release.
 
